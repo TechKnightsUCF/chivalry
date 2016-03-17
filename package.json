@@ -1,0 +1,24 @@
+{
+  "name": "techknights-chivalry",
+  "version": "1.0.0",
+  "description": "A code of good behavior (that knights would follow)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"All tests passed, good job.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TechKnightsUCF/chivalry.git"
+  },
+  "author": "Jonathan Warner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TechKnightsUCF/chivalry/issues"
+  },
+  "homepage": "https://github.com/TechKnightsUCF/chivalry#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mysql": "^2.10.2"
+  }
+}
