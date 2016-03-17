@@ -19,7 +19,7 @@ app.post('/api/mailinglist/subscribe', function(req, res) {
 		if (err) {
 			console.log(err);
 		}
-		res.send(err ? "Error." : 200);
+		res.send(err ? "Error." : "https://www.youtube.com/watch?v=dQw4w9WgXcQ");
 	});
 });
 
